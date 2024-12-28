@@ -91,7 +91,7 @@ def main():
 
             try:
                 # Make the POST request to the API endpoint
-                response = requests.post("https://vishnu-meditrain-2.onrender.com/response", json=payload)
+                response = requests.post("https://vishnu-meditrain.onrender.com/response", json=payload)
 
                 if response.status_code == 200:
                     # Parse the JSON response

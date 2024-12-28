@@ -3,6 +3,7 @@ groq
 requests
 Flask_cors
 Flask
+streamlit-lottie
 
 # Backend : htts://xyz.com
 langchain==0.1.16

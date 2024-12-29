@@ -43,7 +43,7 @@ You can share feedback about your experience with the platform at any time to he
 #### License 📄
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgements 🙏
+#### Acknowledgements 
 I extend my heartfelt gratitude to my mentor for their unwavering guidance and support throughout the development of this AI Bot.
 Their invaluable insights and encouragement have been instrumental in shaping this project into its current form.
 I am deeply appreciative of their mentorship and expertise!

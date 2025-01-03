@@ -117,7 +117,7 @@ def main():
     st.write("### Conversation History")
     for chat in st.session_state["conversation"]:
         st.markdown(f"""
-        <div style="background-color: #e6e6fa; padding: 10px; border-radius: 10px; margin-bottom: 10px;">
+        <div style="background-color: #00008B;color: #ffffff; padding: 10px; border-radius: 10px; margin-bottom: 10px;">
             <strong>You:</strong> {chat['user']}<br>
             <strong>DR AI:</strong> {chat['bot']}
         </div>
